@@ -17,4 +17,4 @@ Pronto estaré creando una cuenta en [Blimp](http://getblimp.com) para Startups 
 #### Herramientas
 El logo de Startups of Puerto Rico está en formato Sketch y el diseño del site en formato OmniGraffle. Puedes usar lo que sea que tienes a la mano. Lo que importa es la aportación y no las herramientas.
 
-![image](concept/SoPR website design 2.0.png)
+![image](concept/SoPR-website-design-2.0.png)
