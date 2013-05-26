@@ -11,7 +11,7 @@ Toda aportación es bienvenida. Diseño, copy, correcciones, ideas, procesos, re
 
 Si no sabes usar git y/o GitHub, deja un mensaje en [el grupo de google](http://groups.google.com/group/startupspr), por twitter [@startupsofpr](https://twitter.com/startupsofpr) o por email a hello@ startupsofpuertorico.com y te ayudaremos a integrar tu aportación a este o cualquier otro repositorio de SoPR.
 
-#### Blimp
+#### Project Management
 Pronto estaré creando una cuenta en [Blimp](http://getblimp.com) para Startups of Puerto Rico donde vamos a poder incluir a más personas dentro del proceso de colaboración. Idealmente tendremos todos los proyectos de la comunidad y cualquiera puede entrar y aportar, sin tener que entender como funciona git y/o GitHub. Tan pronto tenga eso listo actualizaré esta sección.
 
 #### Herramientas
